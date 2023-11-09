@@ -1,0 +1,5 @@
+services:
+  nodejs:
+    image: keith50112e5/m321_websocket:latest
+    ports:
+      - "3000:3000"
